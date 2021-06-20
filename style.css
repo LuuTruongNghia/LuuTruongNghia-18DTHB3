@@ -1,0 +1,222 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+
+.khung2{
+    float: left;
+    padding: 3px;
+    background-color:rgb(165, 194, 0);
+}
+
+.khung1 h1{
+    float: left;
+    font-size: 20px;
+   margin-left: 200px;
+
+}
+
+.khung1 h1 a{
+    padding: 5px;
+    padding-top: 18px;
+}
+
+.khung1 h1 a:hover{
+    background-color: rgb(207, 207, 87);
+}
+
+
+.khung0{
+    float: right;
+    margin-right: 350px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+  
+}
+
+.khung0 input{
+}
+
+.khung0 a{
+    padding-right: 30px;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.khung0 a:hover{
+    background-color: wheat;
+    
+}
+
+.khung-1 a{
+  
+    margin-left: 180px;
+    padding: 5px;
+    padding-top: 17px;
+}
+
+.khung-1 a:hover{
+  
+    background-color: yellowgreen;
+    
+}
+
+.row{
+    padding-left: 180px;
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.khung3 a
+{
+    float: left;
+    padding: 5px;
+    font-size: 20px;
+    text-decoration: none;
+    display: block;  
+}
+
+.khung3{
+    padding-left: 35px;
+    padding-right: 35px;
+    background-color:wheat;
+    overflow: hidden;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+
+.row2khung1{
+    background-color: rgb(252, 182, 126);
+    text-align: left;
+    width: 48%;
+    float: left;
+    
+}
+.row2khung1a{
+    font-size: 20px;
+    font-weight: bold; 
+}
+
+.row2khung1a a{
+    text-decoration: none;
+    display: block;  
+}
+
+.row2khung1a h{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.row2khung1a h1{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.row2khung1a h2{
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+
+
+.row2{
+    padding-left: 180px;
+    padding-right: 180px;
+}
+
+.row2khung2{
+    background-color: gray;
+    text-align: left;
+    width: 20%; 
+    float: right;
+    float: left;
+    padding-bottom: 20px;
+}
+
+.row2khung2a a{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    display: block;  
+
+
+}
+
+.row2khung2a{
+    text-align: right;
+    background-color: grey;
+}
+
+.row2khung2b{
+    background-color: honeydew;
+}
+
+.row2khung2b h{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.row2khung2b h1{
+    font-size: 20px;
+}
+
+.row2khung2b h2{
+    font-size: 20px;
+}
+
+.row2khung2b h3{
+    font-size: 20px;
+}
+
+.row2khung2b h4{
+    font-size: 20px;
+}
+
+.row2khung2c{
+    padding: 2px;
+    background-color: grey; 
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.row2khung2c img{
+   float: right;
+
+}
+
+.row2khung2c h1{
+    font-size: 25px;
+    font-weight: bold;
+    float: left;
+
+}
+
+.row2khung2c h2{
+    font-size: 30px;
+    font-weight: bold;
+    clear: both;
+    
+}
+
+.row2khung2c h3{
+    font-size: 20px;
+}
+.row2khung3a{
+    font-size: 20px;
+}
+
+.row2khung3{
+    background-color: peru;
+    padding-bottom: 16px;
+}
+
+.row2khung3b{
+    padding-top: 20px;
+}
+.row2khung3c{
+    padding-top: 20px;
+}
+.row2khung3d{
+    padding-top: 20px;
+}
